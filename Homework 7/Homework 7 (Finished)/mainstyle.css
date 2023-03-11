@@ -1,0 +1,19 @@
+Body {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: larger;color: rgb(241, 11, 11);
+}
+a {
+    font-size: 40px;
+}
+li {
+    color: black;
+}
+#specificColor{
+color:aqua;
+}
+.Myclass{
+    color: rgb(71, 23, 66);font-weight: bold; font-family: Verdana, Geneva, Tahoma, sans-serif;text-decoration: underline;
+}
+#Image {
+    background-image: url('Hokage7.jpeg')
+
+}
