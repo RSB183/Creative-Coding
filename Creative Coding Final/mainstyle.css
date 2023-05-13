@@ -1,0 +1,35 @@
+Body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: larger;color: rgb(241, 11, 11);
+    }
+    a {
+        font-size: 40px;
+    }
+    li {
+        color: black;
+    }
+    #specificColor{
+    color:aqua;
+    }
+    .Myclass{
+        color: rgb(71, 23, 66);font-weight: bold; font-family: Verdana, Geneva, Tahoma, sans-serif;text-decoration: underline;
+    }
+    .Image {
+        background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-oypxv&psig=AOvVaw3SrsoeGABPHTwnVkt8Pwr0&ust=1678577237155000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNit6s_B0v0CFQAAAAAdAAAAABAE')
+    
+    }
+    #Image {
+        background-image: url('7th hokage .jpeg');
+    }
+    #Project1 {
+        background-image: url('Project1CC');
+    }
+    #Project2 {
+        background-image: url('Codenaldo');
+    }
+    #Project3 {
+        background-image: url('Proj3');
+    }
+    #Project3v4 {
+        background-image: url("Proj3v4.png");
+    }
+    
